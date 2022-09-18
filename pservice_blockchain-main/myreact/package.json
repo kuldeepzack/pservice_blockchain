@@ -1,0 +1,41 @@
+{
+  "name": "myreact",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.3",
+    "js-sha256": "^0.9.0",
+    "node-forge": "^0.10.0",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.3",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-dom": "^16.14.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "0.9.5",
+    "save": "^2.4.0",
+    "socket.io": "^3.0.3",
+    "socket.io-client": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "https://localhost:8000",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+.node_body{
+    text-align: center;
+}
+
+.signin{
+  font-size:2em;
+  color:green;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.signup{
+    font-size:2em;
+    color:indigo;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+
+.heading{
+    text-align: center;
+    display: inline-block;
+    margin:10px;
+}
+
+.si{
+    display: inline-block;
+    margin:10px;
+}
+
+.su{
+    display: inline-block;
+    margin:10px;
+}
+
+.cross_sign{
+    background-color: lavender;
+}

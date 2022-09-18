@@ -1,0 +1,72 @@
+.miner{
+  text-decoration: none;
+  font-size:3em;
+  color: cadetblue;
+  background-color:darksalmon
+}
+
+.doctor_{
+    text-decoration: none;
+    font-size:3em;
+    color: white;
+    background-color:lawngreen;
+  }
+
+.full{
+
+    text-decoration: none;
+    font-size:3em;
+    color: darkcyan;
+    background-color: darkslategray;
+
+}
+
+.patient{
+
+    text-decoration: none;
+    font-size:3em;
+    color:darkmagenta;
+    background-color: goldenrod;
+
+}
+
+.link{
+    display: inline-block;
+}
+
+.inbody{
+    text-align: center;
+}
+
+.label1{
+  font-size: 2em;
+  margin-right:109px;
+}
+
+.label2{
+    font-size:2em;
+    margin-right:100px;
+}
+
+
+.label3{
+    font-size:2em;
+    margin-right:110px;
+}
+
+
+.input{
+    font-size:1.5em;
+    text-align: center;
+}
+
+
+.form1{
+  float:left;
+  margin:50px;
+}
+
+.form2{
+  float:right;
+  margin:50px;  
+}

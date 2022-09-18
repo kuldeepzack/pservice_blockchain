@@ -1,0 +1,55 @@
+.miner_body{
+    text-align: center;
+    position: relative;
+}
+
+.image{
+  position:absolute;
+  left:100px;
+  width:400px;
+  height:500px;
+}
+
+.miner_money{
+  position:absolute;
+  right:100px;
+}
+
+.miner_key{
+  font-size:1.5em;
+  color:indianred;
+}
+
+.img{
+  width:400px;
+  height:500px;
+}
+
+.choose{
+  font-size:1.5em;
+}
+
+.diff{
+  font-size:1.5em;
+}
+
+.sub{
+    font-size:2em;
+    background-color: indianred;
+    color:ivory;
+}
+
+.money_query{
+   margin-top:300px;
+}
+
+.balance{
+  font-size:1.5em;
+  font-weight: bold;
+  margin-right:20px;
+}
+
+
+.min{
+  margin-top:50px;
+}

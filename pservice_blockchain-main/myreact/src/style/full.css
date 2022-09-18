@@ -1,0 +1,49 @@
+node_key{
+    font-size:1.5em;
+    color:indianred; 
+    text-align: center;
+}
+
+full_body{
+    text-align: center;
+    background-image: url('../../public/full.jpg');
+    background-repeat: no-repeat;
+    height:600px;
+}
+
+
+.block{
+    width:300px;
+    height:auto;
+    border:1px solid black;
+    padding-left:10px;
+    padding-right:10px;
+    display: inline-block;
+    margin:20px;
+}
+
+.current{
+   overflow: hidden;
+}
+
+.previous{
+   overflow: hidden;
+}
+
+.current > p{
+    color:green;
+}
+
+.previous >p{
+  color:blue;
+}
+
+.storage{
+    height:auto;
+    width:100%;
+}
+
+
+
+
+

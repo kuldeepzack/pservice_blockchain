@@ -1,0 +1,171 @@
+.patient_body{
+    text-align: center;
+    position: relative;
+}
+
+/* fees */
+.fees{
+  font-size:medium;
+  margin-left:100px;
+}
+
+.f{
+  font-size:xx-large; 
+  margin-right: 240px;
+  font-weight: bolder;
+}
+
+/* mobile */
+
+.mobile{
+  font-size:medium;
+  margin-left: 120px;
+}
+
+.m{
+  font-size:xx-large;
+  margin-right: 190px;
+  font-weight: bolder;
+}
+
+/* Query */
+.query{
+  font-size:medium;
+  width:57%;
+}
+
+.q{
+  font-size:xx-large;
+  margin-right: 100px;   
+  font-weight: bolder;
+}
+
+
+/* doctor */
+.doctor{
+  font-size:xx-large;
+}
+
+.sd{
+  font-size:xx-large;
+  font-weight: bolder;
+  margin-right:200px;
+}
+
+/* amount */
+.amount{
+  font-size:xx-large;;
+  margin-right:100px;
+  font-weight: bolder;
+}
+
+.money{
+  font-size:medium;
+}
+   
+
+.exchange{
+  border: 1px solid brown;
+  width:28%;
+  display: inline-block;
+  float:left;
+  margin-left:5%; 
+  margin-right:5%;
+  height:100%;padding:10px;
+}
+
+.form{
+   width:48%;
+   border: 1px solid burlywood;
+   display: inline-block;
+   float:right;
+   margin-left:5%;
+   margin-right:5%;
+   padding:10px;
+   height:100%;
+}
+
+.sub{
+    font-size:1.5em;
+}
+
+
+.h{
+ color:brown; 
+ text-decoration: underline;     
+ text-decoration-color: brown;  
+}
+
+.patient_key{
+    font-size:1.5em;
+    color:indianred;
+}
+
+@media only screen and (max-width: 800px) {
+
+    .exchange{
+        border: 1px solid brown;
+        width:80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding:10px;
+        text-align:center;
+        position: relative;
+        float:center;
+    }
+    
+    .form{
+       border: 1px solid burlywood;
+       padding:10px;
+       width:80%;
+       text-align: center;
+       margin-left: auto;
+       margin-right: auto;
+       position: relative;
+       float:center;
+    }
+
+
+/* fees */
+   .fees{
+    font-size:medium;
+    margin-left:100px;
+    float:right;
+   }
+   
+   .f{
+       font-size:xx-large;
+       margin-right: 240px;
+       font-weight: bolder;
+       float:left;
+   }
+   
+   /* Query */
+   .query{
+     font-size:medium;
+     width:57%;
+     float:right;
+   }
+   
+   .q{
+       font-size:xx-large;
+       margin-right: 100px;   
+       font-weight: bolder;
+       float:left;
+   }
+   
+   
+   /* doctor */
+   .doctor{
+       font-size:xx-large;
+       float:right;
+   }
+   
+   .sd{
+       font-size:xx-large;
+       font-weight: bolder;
+       margin-right:200px;
+       float:left;
+   }
+   
+}

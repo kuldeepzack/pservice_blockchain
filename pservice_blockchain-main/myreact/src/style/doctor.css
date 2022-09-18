@@ -1,0 +1,34 @@
+.sk{
+    font-size:2em;
+    color:green;
+}
+
+.click{
+    float:right;
+    margin:20px;
+    color:white;
+    background-color:red;
+}
+
+.patient_address{
+   overflow: hidden;
+}
+
+.mobile_number{
+  margin-left:0px;
+}
+
+.query{
+ margin-left:0px;
+}
+
+
+.block{
+  border:1px solid black;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.fetch_tx{
+    text-align:center;
+}
