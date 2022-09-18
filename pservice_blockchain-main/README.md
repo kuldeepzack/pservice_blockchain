@@ -4,7 +4,7 @@ In this project I develope a real time blockchain network and combine it with th
 
 Here you can communicate with the doctor , ask for the prescription and the data between you and the doctor will remain secure and safe
 
-https://user-images.githubusercontent.com/60310438/124092454-7fcaf100-da74-11eb-8b99-074e28c1ae57.mov
+
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/60310438/120976787-4c0bec80-c790-11eb-8507-c16724957861.png)
 ![Screenshot (6)](https://user-images.githubusercontent.com/60310438/120976807-50380a00-c790-11eb-8d36-b89f4d9158b5.png)
